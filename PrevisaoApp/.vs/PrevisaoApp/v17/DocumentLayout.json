@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|c:\\users\\labsfiap\\desktop\\new folder\\projetomlnet\\previsaoapp\\previsaoapp\\controllers\\previsaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|solutionrelative:previsaoapp\\controllers\\previsaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|c:\\users\\labsfiap\\desktop\\new folder\\projetomlnet\\previsaoapp\\previsaoapp\\services\\mlmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|solutionrelative:previsaoapp\\services\\mlmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|c:\\users\\labsfiap\\desktop\\new folder\\projetomlnet\\previsaoapp\\previsaoapp\\models\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|solutionrelative:previsaoapp\\models\\modelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|c:\\users\\labsfiap\\desktop\\new folder\\projetomlnet\\previsaoapp\\previsaoapp\\models\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59927C1-8C6B-43B5-8DCD-536F5609C6AE}|PrevisaoApp\\PrevisaoApp.csproj|solutionrelative:previsaoapp\\models\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrevisaoController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Controllers\\PrevisaoController.cs",
+              "RelativeDocumentMoniker": "PrevisaoApp\\Controllers\\PrevisaoController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Controllers\\PrevisaoController.cs",
+              "RelativeToolTip": "PrevisaoApp\\Controllers\\PrevisaoController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:21:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MLModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Services\\MLModelBuilder.cs",
+              "RelativeDocumentMoniker": "PrevisaoApp\\Services\\MLModelBuilder.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Services\\MLModelBuilder.cs",
+              "RelativeToolTip": "PrevisaoApp\\Services\\MLModelBuilder.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:19:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelOutput.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Models\\ModelOutput.cs",
+              "RelativeDocumentMoniker": "PrevisaoApp\\Models\\ModelOutput.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Models\\ModelOutput.cs",
+              "RelativeToolTip": "PrevisaoApp\\Models\\ModelOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:18:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelInput.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Models\\ModelInput.cs",
+              "RelativeDocumentMoniker": "PrevisaoApp\\Models\\ModelInput.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\ProjetoMLnet\\PrevisaoApp\\PrevisaoApp\\Models\\ModelInput.cs",
+              "RelativeToolTip": "PrevisaoApp\\Models\\ModelInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:18:03.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
